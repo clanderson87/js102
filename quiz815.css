@@ -1,0 +1,7 @@
+.something: nth-child (odd) {
+  background-color: azure;
+}
+
+.something: nth-child (even) {
+  font-color: red;
+}
